@@ -1,0 +1,18 @@
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Allocated slot number: 1
+Allocated slot number: 2
+Allocated slot number: 3
+Allocated slot number: 4
+Allocated slot number: 5
+Allocated slot number: 6
+Registration number KA-01-HH-3141 Slot Number 6 is free with Charge 30
+[object Object],[object Object],[object Object],[object Object],[object Object]
+Allocated slot number: 6
+Sorry, parking lot is full
+Registration number KA-01-HH-1234 Slot Number 1 is free with Charge 30
+Registration number KA-01-BB-0001 Slot Number 3 is free with Charge 50
+Registration number DL-12-AA-9999 not found
+Allocated slot number: 1
+Allocated slot number: 3
+Sorry, parking lot is full
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
